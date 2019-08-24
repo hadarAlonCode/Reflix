@@ -13,9 +13,9 @@ The app has three main views: the Landing Page, the Catalog Page, and the Movie 
 ### Built With
 - React.
 
-The project was for React practice
+The project was for React practice.
 
-Need to add more feacures in the future
+Need to add more features in the future
 
 ### features:
 
