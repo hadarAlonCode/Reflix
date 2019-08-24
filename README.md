@@ -1,7 +1,10 @@
 
 ## Reflix -  movie rental app
+Live link:  https://hadar-reflix.herokuapp.com/
 
-Reflix is a movie rental app. 
+Reflix is a movie rental app.
+
+Design for desktop.
 
 It allows a user to browse a catalog of movies, and select some to rent, so long as the user has the budget for it.
 
