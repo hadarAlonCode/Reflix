@@ -8,7 +8,7 @@ class Landing extends Component {
         
         return (
             <div className="landing">
-                <h2>Who's Watching?</h2>
+                <h2 className="homeTitle">Who's Watching?</h2>
 
                 <div className="boxes">
                 {this.props.users.map(u => {return <User user={u} key={u.id} correntUser={this.props.correntUser}/>})}

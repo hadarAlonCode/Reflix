@@ -38,12 +38,14 @@ body{
 }
 
 #boxName{
-   margin: 3vw;
-   border: 1px solid rgb(0, 0, 0);
-   padding: 5vw;
-   padding-left: 7vw;
-   padding-right: 7vw;
-   border-radius: 15px;
+  margin: 3vw;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 4vw;
+  padding-left: 6vw;
+  padding-right: 6vw;
+  border-radius: 15px;
+  font-size: 28px;
+  font-weight: bold;
 }
 
 
@@ -93,8 +95,10 @@ body{
 
 
 .homeBar{
-  
-    margin-left: 29px;
+  margin-left: 29px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
 }
 
 .landing{
@@ -106,7 +110,9 @@ body{
   float: right;
   margin-right: 10px;
   font-weight: bold;
-  color: red
+  color: red;
+  font-size: 35px;
+
 }
 
 .catalogSection{
@@ -138,7 +144,8 @@ input{
 }
 
 #budget{
-  margin-left: 15vw
+  margin-left: 15vw;
+  font-size: 2vw;
 }
 
 .header{
@@ -155,5 +162,28 @@ input{
 }
 
 .fas{
-  color: white
+  color: white;
+  margin: 3px;
+}
+
+.homeTitle{
+  padding-left: 138px;
+}
+
+.detailTitle{
+  padding-left: 121px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.details{
+  width: 52vw;
+  text-align: center;
+  justify-content: center;
+  justify-self: center;
+  margin: 0 auto;
+}
+
+.moveTitlePage{
+  margin-bottom: 20px;
 }
